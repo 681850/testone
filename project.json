@@ -1,0 +1,10 @@
+{
+    "name": "testone",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "testone.xml",
+    "author": "681850",
+    "minimum_firmware_version": 42
+}
